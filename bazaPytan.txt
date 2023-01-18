@@ -1,0 +1,12 @@
+1.Pytanie 1?
+A.Odpowiedz A
+B.Odpowiedz B
+C.Odpowiedz C
+D.Odpowiedz D
+B
+2.Pytanie 2?
+A.Odpowiedz A
+B.Odpowiedz B
+C.Odpowiedz C
+D.Odpowiedz D
+C
